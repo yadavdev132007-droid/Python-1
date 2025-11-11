@@ -1,5 +1,5 @@
 # tracker.py
-# Name: [Your Name]
+# Name: [Dev Yadav]
 # Date: November 8, 2025
 # Project Title: Daily Calorie Tracker CLI
 
@@ -185,4 +185,5 @@ if __name__ == "__main__":
     
     print("\n==================================================")
     print("           Calorie Tracker Closed.              ")
+
     print("==================================================")
